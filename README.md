@@ -4,3 +4,4 @@ The data are the well-known 1990 California house prices, choosen for not being 
 The report looks at linear and multiple linear regression models to answer what factors most explain the median price of a house. It also looks at the spatial elements and autocorrelation, which violates iid assumptions of least squares, raising questions over the reliability of analysis that does not take it into account. A spatial regression model is attempted, then followed by tree based methods. 
 The report is here presented as a QMD or via Google Colab - with the usual caveat of be aware and prepare for the load time for installing packages (if you guys know a work around to this, please let me know). The R script is also present.
 
+![PXL_20211004_095256364~2](https://github.com/user-attachments/assets/b1a0fac4-f133-4872-8884-4b4664aa82e7)
