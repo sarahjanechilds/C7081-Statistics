@@ -2,7 +2,7 @@
 ### https://github.com/sarahjanechilds/C7081-Statistics/tree/main
 
 
-This is the Google Colab link to the report:
+This is the Google Colab open link to the report:
 ### https://colab.research.google.com/drive/1AsbGdZMwyuoI2fE4t86HVGYopFN6783-?usp=sharing  
 
 
