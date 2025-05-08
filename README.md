@@ -1,6 +1,12 @@
 # C7081-Statistics
 ### https://github.com/sarahjanechilds/C7081-Statistics/tree/main
-### https://colab.research.google.com/drive/1AsbGdZMwyuoI2fE4t86HVGYopFN6783-?usp=sharing
+
+
+This is the Google Colab  
+### https://colab.research.google.com/drive/1AsbGdZMwyuoI2fE4t86HVGYopFN6783-?usp=sharing  
+
+
+
 This is an assignment for class C7081 Statistical Analysis at Harper Adams University. 
 The data are the well-known 1990 California house prices, choosen for not being too toy but also not being too cumbersome. The version used has been pre-cleaned and can also be found here: https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra-features  
 The report looks at linear and multiple linear regression models and then a random forest to answer what factors most explain the median price of a house 
